@@ -8,4 +8,5 @@ Open `sysRPC.py` and change `APP_ID` (line 7) to ur `CLIENT ID` (https://discord
 
 # Set large, small images
 https://discord.com/developers/applications > App > Settings, Rich Presence > Art Assets > Add images > File name its `IMAGE_KEY`
+
 Now, go to line 49 and edit `large_image` to ur `IMAGE_KEY`
