@@ -6,6 +6,9 @@ Set presence in ur discord on active window title, username, computer name
 # How enable
 Open `sysRPC.py` and change `APP_ID` (line 7) to ur `CLIENT ID` (https://discord.com/developers/applications)
 
+`pip install pywin32`
+`pip install discord-rpc.py`
+
 # Set large, small images
 https://discord.com/developers/applications > App > Settings, Rich Presence > Art Assets > Add images > File name its `IMAGE_KEY`
 
